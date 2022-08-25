@@ -24,12 +24,11 @@
 }
 
 body {
-    background-color: rgb(97, 95, 99,);
+    background-color: #878282;
 }
 
 #villains-image {
     width: 100%;
     height: 350px;
     background: url(../css/images/classic-disney-villains.jpg) no-repeat center center;
-    padding: none;
-}
+    }
