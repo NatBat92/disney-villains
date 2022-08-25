@@ -2,6 +2,7 @@
 
 #main-heading, a {
     font-family: Cinzel Decorative, sans-serif;
+    font-size: 175%;
     text-align: center;
     padding: none;
     color: #4b0751;
@@ -13,10 +14,16 @@
     font-family: Cinzel Decorative, sans-serif;
     list-style-type: none;
     text-align: center;
+    color: #4b0751;
+    
 }
 
 #menu li {
     display: inline-block;
+    padding-right: 50px;
+    padding-left: 50px;
+    border-left: 2px solid #4b0751;
+    border-right: 2px solid #4b0751;
 }
 
 #menu a {
