@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&display=swap');
 
 #main-heading, a {
-    font-family: Cinzel Decorative, sans-serif;
+    font-family: "Cinzel Decorative", sans-serif;
     font-size: 175%;
     text-align: center;
     padding: none;
@@ -11,7 +11,7 @@
 
 #menu {
     font-size: 110%;
-    font-family: Cinzel Decorative, sans-serif;
+    font-family: "Cinzel Decorative", sans-serif;
     list-style-type: none;
     text-align: center;
     color: #4b0751;
@@ -29,14 +29,37 @@
     text-decoration: none;
 }
 
+#menu a:hover {
+    background-color: #4b0751;
+    color: white;
+}
+
 body {
     background-color: #878282;
+    margin: 0px;
 }
 
 #villains-image {
     width: 100%;
     height: 350px;
     padding-bottom: 50px;
+    text-align: center;
+}
+
+hr {
+    background-color: white;
+    height: 3px;
+    border: none;
+}
+
+#villains-timeline h2 {
+    font-family: "Cinzel Decorative", sans-serif;
+    text-align: center;
+    padding-top: 20px;
+    color: #4b0751;
+}
+
+#villains-timeline {
     text-align: center;
 }
 
@@ -52,6 +75,7 @@ body {
         width: 100%;
         height: auto;
         padding-bottom: 20px;
+        
     }
 
     img {
