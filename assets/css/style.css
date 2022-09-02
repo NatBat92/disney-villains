@@ -33,6 +33,18 @@
     color: white;
 }
 
+#page-opener {
+    text-align: center;
+    color: #4b0751;
+    border: thick solid #4b0751; 
+    padding: 10px;
+    width: 65%;
+    margin: auto;
+    font-size: 150%;
+    background-color: white;
+    opacity: 50%;
+}
+
 body {
     background-color: #878282;
     margin: 0px;
@@ -54,12 +66,28 @@ hr {
 #villains-timeline h2 {
     font-family: "Cinzel Decorative", sans-serif;
     text-align: center;
-    padding-top: 20px;
     color: #4b0751;
 }
 
 #villains-timeline {
     text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+footer h3 {
+    font-family: "Cinzel Decorative", sans-serif;
+    color: #4b0751;
+    letter-spacing: 5px;
+}
+
+footer li {
+    display: inline-block;
+    color: white;
+    padding-right: 20px;
+    list-style: none;
 }
 
 @media  screen and (max-width: 950px) {
@@ -80,5 +108,9 @@ hr {
     img {
         width: 100%;
         height: auto;
+    }
+
+    #page-opener {
+        font-size: 100%;
     }
 }
