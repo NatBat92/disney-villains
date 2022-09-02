@@ -4,7 +4,6 @@
     font-family: "Cinzel Decorative", sans-serif;
     font-size: 175%;
     text-align: center;
-    padding: none;
     color: #4b0751;
     text-decoration: none;
 }
@@ -81,6 +80,5 @@ hr {
     img {
         width: 100%;
         height: auto;
-        padding: none;
     }
 }
