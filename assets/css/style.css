@@ -114,14 +114,16 @@ footer li {
 }
 
 table {
-    width: 75%;
+    width: 100%;
     margin: auto;
+    padding-bottom: 20px;
 }
 
 .villain-info {
     border: thick solid #4b0751;
     background-color: white;
     opacity: 50%;
+    font-size: 120%;
 }
 
 #queen-of-hearts-image {
@@ -131,7 +133,6 @@ table {
 #cruella-image {
     float: right;
 }
-
 
 @media  screen and (max-width: 950px) {
     #menu li {
@@ -144,8 +145,7 @@ table {
     #villains-image {
         width: 100%;
         height: auto;
-        padding-bottom: 20px;
-        
+        padding-bottom: 20px;        
     }
 
     img {
@@ -155,5 +155,15 @@ table {
 
     #page-opener {
         font-size: 100%;
+    }
+
+    .female-villain-image {
+        width: 75%;
+        height: auto;
+
+    }
+    
+    .villain-info {
+        width: 50%;
     }
 }
