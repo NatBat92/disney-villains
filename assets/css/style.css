@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&display=swap');
 
+/* headings */
+
 #main-heading, a {
     font-family: "Cinzel Decorative", sans-serif;
     font-size: 175%;
@@ -7,6 +9,56 @@
     color: #4b0751;
     text-decoration: none;
 }
+
+#villains-timeline h2 {
+    font-family: "Cinzel Decorative", sans-serif;
+    font-size: 200%;
+    text-align: center;
+    color: #4b0751;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+}
+
+#meet-the-ladies {
+        font-family: "Cinzel Decorative", sans-serif;
+        font-size: 200%;
+        color: #4b0751;
+        text-align: center;
+        padding-bottom: 20px;
+        padding-top: 15px;
+        text-decoration-line: underline;
+        text-decoration-style: double;
+}
+
+/* images */
+
+.female-villain-image {
+    width: 25%;
+    height: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#villains-image {
+    width: 100%;
+    height: 350px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+#queen-of-hearts-image {
+    float: right;
+}
+
+#cruella-image {
+    float: right;
+}
+
+#villains-timeline {
+    text-align: center;
+}
+
+/* nav bar */
 
 #menu {
     font-size: 110%;
@@ -33,6 +85,13 @@
     color: white;
 }
 
+/* body text */
+
+body {
+    background-color: #878282;
+    margin: 0px;
+}
+
 #page-opener {
     text-align: center;
     color: #4b0751;
@@ -45,36 +104,13 @@
     opacity: 50%;
 }
 
-body {
-    background-color: #878282;
-    margin: 0px;
-}
-
-#villains-image {
-    width: 100%;
-    height: 350px;
-    padding-bottom: 50px;
-    text-align: center;
-}
-
 hr {
     background-color: white;
     height: 3px;
     border: none;
 }
 
-#villains-timeline h2 {
-    font-family: "Cinzel Decorative", sans-serif;
-    font-size: 200%;
-    text-align: center;
-    color: #4b0751;
-    text-decoration-line: underline;
-    text-decoration-style: double;
-}
-
-#villains-timeline {
-    text-align: center;
-}
+/* footer */
 
 footer {
     text-align: center;
@@ -93,25 +129,7 @@ footer li {
     list-style: none;
 }
 
-/* female villains page */
-
-#meet-the-ladies {
-    font-family: "Cinzel Decorative", sans-serif;
-    font-size: 200%;
-    color: #4b0751;
-    text-align: center;
-    padding-bottom: 20px;
-    padding-top: 15px;
-    text-decoration-line: underline;
-    text-decoration-style: double;
-}
-
-.female-villain-image {
-    width: 25%;
-    height: auto;
-    padding-left: 20px;
-    padding-right: 20px;
-}
+/* table */
 
 table {
     width: 100%;
@@ -126,13 +144,7 @@ table {
     font-size: 120%;
 }
 
-#queen-of-hearts-image {
-    float: right;
-}
-
-#cruella-image {
-    float: right;
-}
+/* media queries */
 
 @media  screen and (max-width: 950px) {
     #menu li {
