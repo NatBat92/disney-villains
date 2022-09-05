@@ -20,35 +20,41 @@
 }
 
 #meet-the-villains-heading {
-        font-family: "Cinzel Decorative", sans-serif;
-        font-size: 200%;
-        color: #4b0751;
-        text-align: center;
-        padding-bottom: 20px;
-        padding-top: 15px;
-        text-decoration-line: underline;
-        text-decoration-style: double;
+    font-family: "Cinzel Decorative", sans-serif;
+    font-size: 200%;
+    color: #4b0751;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 15px;
+    text-decoration-line: underline;
+    text-decoration-style: double;
 }
 
 #villain-medley-video h2 {
     font-family: "Cinzel Decorative", sans-serif;
-        font-size: 200%;
-        color: #4b0751;
-        text-align: center;
-        padding: 15px 0px;
-        text-decoration-line: underline;
-        text-decoration-style: double;
+    font-size: 200%;
+    color: #4b0751;
+    text-align: center;
+    padding: 15px 0px;
+    text-decoration-line: underline;
+    text-decoration-style: double;
 }
 
-#villain-bio-heading {
+#villain-bio-heading, h2 {
     font-family: "Cinzel Decorative", sans-serif;
-        font-size: 200%;
-        color: #4b0751;
-        text-align: center;
-        padding-bottom: 20px;
-        padding-top: 15px;
-        text-decoration-line: underline;
-        text-decoration-style: double;
+    font-size: 200%;
+    color: #4b0751;
+    text-align: center;
+    padding: 15px 0px;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+}
+
+.villain-name-headings {
+    font-family: "Cinzel Decorative", sans-serif;
+    color: #4b0751;
+    text-align: center;
+    font-size: 150%;
 }
 
 /* images & video */
@@ -106,8 +112,7 @@
 
 #menu li {
     display: inline-block;
-    padding-right: 50px;
-    padding-left: 50px;
+    padding: 25px;
     background-color: white;
     opacity: 50%;
     border: thick solid #4b0751;
@@ -133,7 +138,8 @@ body {
 #page-opener {
     text-align: center;
     color: #4b0751;
-    border: thick solid #4b0751; 
+    border: thick solid #4b0751;
+    border-radius: 25px;
     padding: 10px;
     width: 65%;
     margin: auto;
@@ -150,6 +156,18 @@ hr {
 
 #villain-medley-video {
     text-align: center;
+}
+
+.villain-bio-paragraph {
+    width: 75%;
+    color: #4b0751;
+    border: thick solid #4b0751;
+    border-radius: 25px;
+    padding: 10px;
+    margin: auto;
+    background-color: white;
+    opacity: 50%;
+    font-size: 125%;
 }
 
 /* footer */
