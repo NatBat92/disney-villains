@@ -40,6 +40,17 @@
         text-decoration-style: double;
 }
 
+#villain-bio-heading {
+    font-family: "Cinzel Decorative", sans-serif;
+        font-size: 200%;
+        color: #4b0751;
+        text-align: center;
+        padding-bottom: 20px;
+        padding-top: 15px;
+        text-decoration-line: underline;
+        text-decoration-style: double;
+}
+
 /* images & video */
 
 .female-villain-image {
