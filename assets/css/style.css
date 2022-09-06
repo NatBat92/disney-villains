@@ -2,7 +2,8 @@
 
 /* headings */
 
-#main-heading, a {
+#main-heading,
+a {
     font-family: "Cinzel Decorative", sans-serif;
     font-size: 175%;
     text-align: center;
@@ -24,7 +25,7 @@
     font-size: 200%;
     color: #4b0751;
     text-align: center;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
     padding-top: 15px;
     text-decoration-line: underline;
     text-decoration-style: double;
@@ -40,7 +41,8 @@
     text-decoration-style: double;
 }
 
-#villain-bio-heading, h2 {
+#villain-bio-heading,
+h2 {
     font-family: "Cinzel Decorative", sans-serif;
     font-size: 200%;
     color: #4b0751;
@@ -55,6 +57,14 @@
     color: #4b0751;
     text-align: center;
     font-size: 150%;
+}
+
+.click-here {
+    font-family: "Cinzel Decorative", sans-serif;
+    color: #4b0751;
+    text-align: center;
+    font-size: 150%;
+    padding-bottom: 20px;
 }
 
 /* images & video */
@@ -100,6 +110,10 @@
     text-align: center;
 }
 
+#villain-medley-video {
+    text-align: center;
+}
+
 /* nav bar */
 
 #menu {
@@ -114,7 +128,7 @@
     display: inline-block;
     padding: 25px;
     background-color: white;
-    opacity: 50%;
+    opacity: 75%;
     border: thick solid #4b0751;
     border-radius: 25px;
 }
@@ -131,7 +145,7 @@
 /* body text */
 
 body {
-    background-color: #878282; 
+    background-color: #878282;
     margin: 0px;
 }
 
@@ -145,17 +159,13 @@ body {
     margin: auto;
     font-size: 150%;
     background-color: white;
-    opacity: 50%;
+    opacity: 75%;
 }
 
 hr {
     background-color: white;
     height: 3px;
     border: none;
-}
-
-#villain-medley-video {
-    text-align: center;
 }
 
 .villain-bio-paragraph {
@@ -166,7 +176,7 @@ hr {
     padding: 10px;
     margin: auto;
     background-color: white;
-    opacity: 50%;
+    opacity: 75%;
     font-size: 125%;
 }
 
@@ -189,6 +199,11 @@ footer li {
     list-style: none;
 }
 
+form {
+    font-family: "Cinzel Decorative", sans-serif;
+    color: #4b0751;
+}
+
 /* table */
 
 table {
@@ -200,13 +215,13 @@ table {
 .villain-info {
     border: thick solid #4b0751;
     background-color: white;
-    opacity: 50%;
+    opacity: 75%;
     font-size: 120%;
 }
 
 /* media queries */
 
-@media  screen and (max-width: 950px) {
+@media screen and (max-width: 950px) {
     #menu li {
         border-left: none;
         border-right: none;
@@ -217,7 +232,7 @@ table {
     #villains-image {
         width: 100%;
         height: auto;
-        padding-bottom: 20px;        
+        padding-bottom: 20px;
     }
 
     img {
@@ -233,7 +248,12 @@ table {
         width: 75%;
         height: auto;
     }
-    
+
+    .male-villain-image {
+        width: 75%;
+        height: auto;
+    }
+
     .villain-info {
         width: 50%;
     }
