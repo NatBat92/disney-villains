@@ -44,4 +44,30 @@ Following the core UX principles I firstly decided on my target audience and I d
 
 ## Scope
 
+To acheive the goals i had set out for this website I included the following features:
+
+* Header with page Logo. 
+* Large image to show which villains will be featured.
+* Easy to use navigation menu.
+* Seperate pages for male and female villains.
+* Combined biography page for all villains featuring 9 of them.
+* Borders around the information to make it stand out.
+* Footer to contain a subscribe feature and the links to various social media platforms.
+
+## Structure
+
+I chose the file names that I did as they were easy to define what the relevant page was about. Due to the amount of information I wanted to put into the site and the use of images so people could see what each character looks like 1 page wasn't enough so I chose to do 5 pages in total. The menu is consistent throughout the website and the names of each page are easy to follow. The main page is simple and contains a brief overview to the site, then the timeline of the featured villains and their corresponding movie, then a song medley of various villains music from their movies and then the footer at the bottom of the page.
+
+Both the male and female villain pages are the same in structure, the way I structured it was to help the information not look cramped on the page and the added images were used as a visual aid and they are also linked to the biographies page so when you click a villain portrait, you are taken to the corresponding biography.
+
+## Skeleton
+
+I created quick sketches of what I wanted the website to look like in Excel as it was easy to define the space and the frame of the site in it's basic form.
+
+![excel sketch of the home page](assets/css/images/home-page-sketch.png)
+![excel sketch of the male /female villain page](assets/css/images/female-villain-sketch.png)
+![excel sketch of the villain bio page](assets/css/images/villain-bios-sketch.png)
+![excel sketch of the request a villain page](assets/css/images/villain-request-sketch.png)
+
+## Surface
 
