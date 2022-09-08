@@ -264,11 +264,11 @@ table {
     #villain-medley-video {
         width: 100%;
         height: auto;
+        margin: auto;
     }
 
     iframe {
         width: 100%;
-        height: auto;
     }
 }
 
@@ -312,10 +312,10 @@ table {
     #villain-medley-video {
         width: 100%;
         height: auto;
+        margin: auto;
     }
 
     iframe {
-        width: 50%;
-        height: auto;
+        width: 100%;        
     }
 }
