@@ -216,6 +216,14 @@ footer #subscribe-form {
     text-align: center;
 }
 
+.form-section h3 {
+    font-family: "Cinzel Decorative", sans-serif;
+    color: #4b0751;
+    font-size: 20px;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+}
+
 input[type=text] {
     padding: 10px;
     margin: 0 auto;
