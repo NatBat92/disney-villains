@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -10,23 +11,25 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <title>Villains</title>
 </head>
+
 <body>
-    <header>      
+    <header>
         <a href="index.html">
             <h1 id="main-heading">Disney Villains</h1>
         </a>
-            
+
     </header>
-    
+
     <div id="villains-image">
-        <img src="assets/css/images/male-villains-grey.jpg" alt="stainglass image of various disny villains with the male characters greyed out">
+        <img src="assets/css/images/male-villains-grey.jpg"
+            alt="stainglass image of various disny villains with the male characters greyed out">
     </div>
 
     <div>
         <nav id="menu">
             <ul>
                 <li>
-                    <a href="index.html">Home</a>                    
+                    <a href="index.html">Home</a>
                 </li>
                 <li>
                     <a href="female_villains.html">Female Villains</a>
@@ -46,7 +49,21 @@
 
     <hr>
 
-    
+    <section class="form-section">
+        <form method="POST" action="https://formdump.codeinstitute.net/" class="villain-request-form">
+            <label for="fname"><strong>First Name: </strong></label>
+            <input class="text-input" type="text" id="fname" name="fname">
+            <label for="lname"><strong>Last Name: </strong></label>
+            <input class="text-input" type="text" id="lname" name="lname">
+            <label for="email-request"><strong>Email Address: </strong></label>
+            <input class="text-input" type="email" id="email-request" name="email-request">
+            <label for="villain-request"><strong>Which villain would you like to see? </strong></label>
+            <input class="text-input" type="text" id="villain-request" name="villain-request">
+        </form>
+    </section>
+
+    <hr>
+
     <footer>
         <h3>Find us here too</h3>
         <ul>
@@ -66,14 +83,15 @@
                         class="fa-brands fa-square-instagram"></i></a>
             </li>
         </ul>
-        <form>
+        <form id="subscribe-form">
             <label for="email"><strong>Subscribe to our newsletter: </strong></label>
             <input type="email" id="email" name="email">
             <input type="submit">
         </form>
         <p><i class="fa-regular fa-copyright"></i>2022 NatBat92</p>
-    </footer>  
-    
+    </footer>
+
     <script src="https://kit.fontawesome.com/83f4b7e454.js" crossorigin="anonymous"></script>
 </body>
+
 </html>
