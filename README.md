@@ -71,3 +71,21 @@ I created quick sketches of what I wanted the website to look like in Excel as i
 
 ## Surface
 
+The colour scheme of the website was chosen to provide simplicity and to match the colours that similar websites would use for the Disney villains. The logo colour was chosen as it stood out on the grey background and is a colour that features on some of the characters. The grey background was chosen as it is a solid basic colour that made th purple colour stand out and the images stand out against it.
+
+I chose the font Cinzel Decorative throughout as it looked good for the website and was very suited to the theme of the website. This font by default uses all uppercase which meant the user is able to clearly read the words and follow the site structure. Sans-serif was used as the default go to in case my chosen font couldn't be loaded. I used a hover effect on the navigation bar to attract attention and demonstrate the ease of navigation across all pages.
+
+# Features
+
+## Navigation Bar
+
+All five pages have a fully functioning navigation bar which includes links to the Home, Female VIllains, Male Villains, Villain Bios and Request a villain pages, these are identical on each page to keep the website consistent. This allows the user to navigate to whichever page they require. Also the main logo is a link to the home page so clicking this will revert the user back to the home page.
+
+![screenshot of nav bar links](assets/css/images/nav-bar-image.png)
+
+## Villain Outlines
+
+The villain outline pages were done as a first port of call for the user to see the villains and find out the basics about each one. Each image is then a link to their name on a further page that gives a more in depth look at each villain and what they're about. 
+
+![screenshot of the female villain page](assets/css/images/female-villain-page-example.png)
+![screenshot of the male villain page](assets/css/images/male-villain-page-example.png)
