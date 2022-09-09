@@ -245,6 +245,7 @@ input[type=text] {
     text-align: center;
     margin: auto;
     font-size: 25px;
+    width: 75%;
 }
 
 input[type=email]:hover {
