@@ -256,6 +256,14 @@ input[type=text] {
     width: 75%;
 }
 
+#villain-submit {
+    border: thick solid #4b0751;
+    text-align: center;
+    font-family: "Cinzel Decorative", sans-serif;
+    margin-top: 20px;
+    font-size: 150%;
+}
+
 input[type=email]:hover {
     border: thick solid white;
 }
