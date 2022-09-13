@@ -1,7 +1,8 @@
 # Disney Villains
-This site is somewhere for people like me who loves the bad guys of the Disney world to go and learn a little more about those characters who are out to stop the good guys. This project is the basis of what can become something much larger with more characters being added as the Disney franchise grows.The first page is to introduce users to the site and includes a timeline of all the villains mentioned in the later pages and those who are featured in the header image.
 
-There are 4 other pages, two for each gender of villain, with an image of said villain and also a basic look at who they are and which movie they are from etc. There is also a more detailed page with all the character Biographies on which feature more in depth look at the characters themselves. The final page is for the site user to have their say and choose a villain who is not listeed on the site already and to have them included in a future site release. 
+This website is somewhere for people, like me, who enjoy the bad guys of the Disney world. They can learn more about the characters who are out to stop the good guys. This project is the basis of what can become something much larger, with more characters being added as the Disney franchise grows. 
+
+The first page is an introduction for users of the site and includes a timeline of all the villains mentioned in the later pages and those who are featured in the header image. There are three main pages focused on the villains themselves, one for each gender of villain, with an image of each and a basic look at who they are and which movie they are from etc. The third page is more detailed with all the character biographies in which feature a more in depth look at the characters themselves. The final page in the website is for the site user to have their say and choose a villain who is not listed on the site already and to have them included in a future site release. 
 
 The goal of this website is for people who are a fan of the Disney franchise (villains in particular) to be able to see the characters that they love, all in one place and can read up about them and see where they fall in the Disney movie timeline and find out what makes that character unique.
 
@@ -16,7 +17,7 @@ The goal of this website is for people who are a fan of the Disney franchise (vi
 * Easy to navigate website structure
 * Quick and simple descriptions
 * Visually appealing
-* Social media links and link to a website that houses everything Disney 
+* Social media links and a link to a wiki page that houses everything Disney 
 
 # UX
 
@@ -26,16 +27,16 @@ Following the core UX principles I firstly decided on my target audience and I d
 
 ### Disney Villain Target Audience:
 
-* People of all ages
-* Disney fans
-* Those with a love for the bad guys of the Disney world
+* People of all ages.
+* Disney fans.
+* Those with a love for the bad guys of the Disney world.
 
 ### What the users would want from the website:
 
-* Informal language
-* Ease of navigation between pages
-* Mobile friendly so must be responsive
-* Visually appealing and contains relevant information about the topic
+* Informal language.
+* Ease of navigation between pages.
+* Mobile friendly so must be responsive.
+* Visually appealing and contains relevant information about the topic.
 
 ### The website is best for users:
 
@@ -44,7 +45,7 @@ Following the core UX principles I firstly decided on my target audience and I d
 
 ## Scope
 
-To acheive the goals i had set out for this website I included the following features:
+To acheive the goals I had set out for this website I included the following features:
 
 * Header with page Logo. 
 * Large image to show which villains will be featured.
@@ -62,7 +63,7 @@ Both the male and female villain pages are the same in structure, the way I stru
 
 ## Skeleton
 
-I created quick sketches of what I wanted the website to look like in Excel as it was easy to define the space and the frame of the site in it's basic form.
+I created quick sketches of what I wanted the website to look like in Excel as it was easy to define the space and the frame of the site in its basic form.
 
 ![excel sketch of the home page](assets/css/images/home-page-sketch.png)
 ![excel sketch of the male /female villain page](assets/css/images/female-villain-sketch.png)
