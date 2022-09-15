@@ -90,3 +90,86 @@ The villain outline pages were done as a first port of call for the user to see 
 
 ![screenshot of the female villain page](assets/css/images/female-villain-page-example.png)
 ![screenshot of the male villain page](assets/css/images/male-villain-page-example.png)
+
+## Villain Biographies
+
+The villain bio page provides a more in depth look at the villains. It details the movie and the basic plot as well as giving a bit more of a background for the character which the previous website pages don't provide.
+
+![screenshot of the villain bio page](assets/css/images/villain-bio-example.png)
+
+## Request a Villain
+
+The Request a Villain page give the user a chance to request a villain that is currently missing from the site. As the site is in early stages there are many more villains out there to be added so giving people the chance to be a part of that process is one way to encourage return site users.
+
+![screenshot of the request a villain page](assets/css/images/request-a-villain-example.png)
+
+## Footer
+
+The footer houses social media links to a Facebook page dedicated to Disney Villains, an Instagram page for Disney VIllains and the wiki page for all things Disney. I have also included an option for the user to sign up to a newsletter so they would get an email when a new villain is added.
+
+![screenshot of the footer](assets/css/images/footer-example.png)
+
+## Features left to implement
+
+
+## Technologies used
+
+[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+* HTML was used as the main building block for content structure.
+
+[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+* CSS was used to set the layout of the site and the features within it and to make the website responsive for multiple screen sizes.
+
+[Google Developer Tools](https://developer.chrome.com/docs/devtools/)
+
+* Google Dev Tools were used so i could check my website through all stages of development and ensure it was responsive.
+
+[Google Fonts](https://fonts.google.com/)
+
+*Google fonts is where i chose the font that is seen throughout the website.
+
+[Google Images](https://images.google.co.uk/)
+
+* Google images is where i found the main header iimage for the website.
+
+[Disney Wiki](https://disney.fandom.com/wiki/The_Disney_Wiki)
+
+* The disney wiki page is where i got the majority of my imags and thumbnails from.
+
+[Font Awesome](https://fontawesome.com/)
+
+* Font Awesome is where i got the Facebook, Instagram and Wiki icons from.
+
+[github](https://github.com/)
+
+*  Github was used to store the code for the project.
+
+[Git](https://git-scm.com/)
+
+* Git wasused for version control to commit and push to Github.
+
+[Gitpod](https://www.gitpod.io/)
+
+* Gitpod was used as the development environment.
+
+[WebAim](https://webaim.org/resources/contrastchecker/)
+
+* Used this website to check to contrast of colours for the background colour and text colour
+
+[W3C Markup Validation Service](https://validator.w3.org/)
+
+* This was used to test my code and to make sure there were no errors 
+
+[W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+
+* This was used to test my code and to make sure there were no errors or redundant code that didn't need to be there
+
+[Am I Responsive](https://ui.dev/amiresponsive)
+
+* Used this to demonstrate what my website would look across different devices
+
+# Testing
+
+## User Stories

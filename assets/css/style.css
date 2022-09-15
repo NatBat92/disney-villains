@@ -208,9 +208,18 @@ footer li {
     list-style: none;
 }
 
-footer #subscribe-form {
+footer label {
     font-family: "Cinzel Decorative", sans-serif;
     color: #4b0751;
+    font-size: 120%;
+}
+
+footer input[type=email] {
+    font-size: 120%;
+}
+
+footer input[type=submit] {
+    font-size: 120%;
 }
 
 /* Villain request form */
@@ -271,7 +280,7 @@ input[type=text] {
     font-size: 150%;
 }
 
-input[type=email]:hover {
+.form-section input[type=email]:hover {
     border: thick solid white;
 }
 
