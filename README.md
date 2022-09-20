@@ -1,16 +1,16 @@
 # Disney Villains
 
-This website is somewhere for people, like me, who enjoy the bad guys of the Disney world. They can learn more about the characters who are out to stop the good guys. This project is the basis of what can become something much larger, with more characters being added as the Disney franchise grows. 
+This website is somewhere for people, like me, who enjoy the bad guys of the Disney world. This website allows the user to learn more about the characters who are out to stop the good guys. This project is the basis of what can become something much larger, with more characters being added as the Disney franchise grows. 
 
-The first page is an introduction for users of the site and includes a timeline of all the villains mentioned in the later pages and those who are featured in the header image. There are three main pages focused on the villains themselves, one for each gender of villain, with an image of each and a basic look at who they are and which movie they are from etc. The third page is more detailed with all the character biographies in which feature a more in depth look at the characters themselves. The final page in the website is for the site user to have their say and choose a villain who is not listed on the site already and to have them included in a future site release. 
+The first page is an introduction for users of the site, it includes a timeline of all the villains mentioned in the later pages and those who are featured in the header image. There are three main pages focused on the villains themselves, one for each gender of villain, with an image of each and a brief descriptiom of who they are and which movie they are from etc. The third page contains a more detailed description of the characters and a more in depth look at the movie they are featured in as the villain. The final page of the website is for the user to have their say and request another villain to be added to the website. 
 
-The goal of this website is for people who are a fan of the Disney franchise (villains in particular) to be able to see the characters that they love, all in one place and can read up about them and see where they fall in the Disney movie timeline and find out what makes that character unique.
+The goal of this website is for users who are a fan of the Disney franchise (villains in particular) to be able to see the characters that they love, all in one place and can read up about them and see where they fall in the Disney movie timeline and find out what makes that character unique.
 
 ## Business Goals
 
-* Gathering place for Disney Villain fans
-* Raise the villains fan base
-* Introduce people to the villains and a bit of their history
+* Gathering place for Disney villain fans
+* Increase the villains fan base
+* Introduce users to the villains and educate them about their history
 
 ## Customer Goals
 
@@ -23,43 +23,44 @@ The goal of this website is for people who are a fan of the Disney franchise (vi
 
 ## Strategy
 
-Following the core UX principles I firstly decided on my target audience and I decided what I would want to see if I was interested in this particular topic.
+Following the core UX principles, I firstly decided on my target audience and decided what I would want to see if I was interested in this particular topic.
 
 ### Disney Villain Target Audience:
 
-* People of all ages.
-* Disney fans.
-* Those with a love for the bad guys of the Disney world.
+* Users of all ages
+* Disney fans
+* Those with a love for the villains of the Disney world
 
 ### What the users would want from the website:
 
-* Informal language.
-* Ease of navigation between pages.
-* Mobile friendly so must be responsive.
-* Visually appealing and contains relevant information about the topic.
+* Informal language
+* Ease of navigation between pages
+* Responsive so the website is viewable on multiple platforms
+* Visually appealing and contains relevant information about the topic
 
 ### The website is best for users:
 
-* Most websites that are similar to this one, feature the good guys also and they can sometimes over-shadow the villain of the movie.
-* Many people who share the interest in the Disney Villain franchise would need to scour through huge websites where they will eventually come across the information/ characters they wish to see information about. So this website provides what the individual is looking for all in one place.
+Most websites that are similar to this one, feature the good guys in addition to the villains which can sometimes over-shadow the villain of the movie. Many people who share the interest in the Disney villain franchise would need to scour through huge websites, eventually finding the information/characters they were looking for after spending an excessive amount of time scrolling through pages and pages. This website identifies this gap in the market and provides the individual with this information all in one place.
 
 ## Scope
 
-To acheive the goals I had set out for this website I included the following features:
+To achieve the goals I set out for this website, I included the following features:
 
-* Header with page Logo. 
-* Large image to show which villains will be featured.
-* Easy to use navigation menu.
-* Seperate pages for male and female villains.
-* Combined biography page for all villains featuring 9 of them.
-* Borders around the information to make it stand out.
-* Footer to contain a subscribe feature and the links to various social media platforms.
+* Header with page logo
+* Large image to show which villains will be featured
+* Easy to use navigation menu
+* Separate pages for male and female villains
+* Combined biography page for all villains featured throughout the website
+* Borders around the information to make it stand out
+* Footer to contain a subscribe feature and the links to various social media platforms
 
 ## Structure
 
-I chose the file names that I did as they were easy to define what the relevant page was about. Due to the amount of information I wanted to put into the site and the use of images so people could see what each character looks like 1 page wasn't enough so I chose to do 5 pages in total. The menu is consistent throughout the website and the names of each page are easy to follow. The main page is simple and contains a brief overview to the site, then the timeline of the featured villains and their corresponding movie, then a song medley of various villains music from their movies and then the footer at the bottom of the page.
+I used descriptive file names so that it defined what information the relevant page contained. Due to the amount of information I wanted to include on the website, including descriptions and images, one page was too restrictive and therefore I created five pages in total. The menu is a consistent format and layout throughout the website, the names of each page are easy to follow and when a page is being viewed, the relevant menu link is highlighted purple. 
 
-Both the male and female villain pages are the same in structure, the way I structured it was to help the information not look cramped on the page and the added images were used as a visual aid and they are also linked to the biographies page so when you click a villain portrait, you are taken to the corresponding biography.
+The main page is simple and contains a brief overview of the site, including a timeline of the featured villains and their corresponding movies. An embedded video is shown underneath the timeline, this is a medley of songs that are sang by the villains in their movies. The page then finishes with the footer at the bottom of the page.
+
+Both the male and female villain pages use the same structure. The way I structured it was to help the information not look cramped on the page and the added images were used as a visual aid and they are also linked to the biographies page so when you click a villain portrait, you are taken to the corresponding biography.
 
 ## Skeleton
 
@@ -131,7 +132,7 @@ The footer houses social media links to a Facebook page dedicated to Disney Vill
 
 [Google Fonts](https://fonts.google.com/)
 
-*Google fonts is where i chose the font that is seen throughout the website.
+* Google fonts is where i chose the font that is seen throughout the website.
 
 [Google Images](https://images.google.co.uk/)
 
@@ -176,3 +177,51 @@ The footer houses social media links to a Facebook page dedicated to Disney Vill
 # Testing
 
 ## User Stories
+
+1. As a first time user, I want to easily locate my favourite villain.
+* There are 2 clearly marked pages of villains, male and female once you are on the appropriate page then you can click the icon of your chosen character and be taken to a more in depth look at that villain.
+
+![screenshot of nav bar links](assets/css/images/nav-bar-image.png)
+
+2. As a first time/ returning user, I want clearly laid out information
+* All the information is laid out in organised sections and there is clear definition between each individual villain in their respective page.
+
+![screenshot of a villain page that shows a clear layout](assets/css/images/layout-example.png)
+
+## Testing
+
+I tested my website on a few platforms including Microsoft Edge, Chrome and Android web. I confirmed my project is responsive by using the dev tools on the web browsers and changing the sizes of the screen. I have tested the links to make sure they go to the correct external and internal pages. The villain request form has a submit button and this opens in a new window.
+
+## Validator Testing
+
+### HTML
+* All five of my web pages were tested using the official W3C Validator and they passed without error.
+
+![screenshot of the HTML passing the validator](assets/css/images/index-pass.png)
+
+### CSS
+* When I ran my CSS through the validator it passed without error
+
+![screenshot of my CSS passing in the validator](assets/css/images/css-pass.png)
+
+### Accessibility
+* I can confirm the colours and font I chose are easy to read and accessible when running lighthouse in Dev tools
+
+## Deployment
+
+! add steps to deploy to github !
+
+# Credits
+
+## Code
+* General coding queries were answered by using [W3Schools](https://www.w3schools.com/html/)
+
+## Content
+* The icons used were from [Font Awesome](https://fontawesome.com/)
+
+## Media
+* The main image used for the website was found on [Google Images](https://images.google.co.uk/)
+* The other images such as the small character images used on the male and female villains pages were from [Disney Wiki](https://disney.fandom.com/wiki/The_Disney_Wiki)
+
+# Acknowledgements
+I would like to thank my mentor Andre Aquilina for his support and helpful guidance and the ideas he had about certain features I had on the website and how to improve them. 
