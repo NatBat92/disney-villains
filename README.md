@@ -111,6 +111,9 @@ The footer houses social media links to a Facebook page dedicated to Disney Vill
 
 ## Features left to implement
 
+* A News page that details the upcoming additions to the site and also updates about new movies and the villain(s) within it.
+* A forum for users to discuss Disney topics
+* A space for users to create and share their own fan-fiction
 
 ## Technologies used
 
