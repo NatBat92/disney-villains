@@ -308,8 +308,8 @@ table {
     border: thick solid #4b0751;
     background-color: white;
     opacity: 75%;
-    font-size: 120%;
-}
+    font-size: 150%;
+}    
 
 /* timeline */
 
@@ -417,7 +417,7 @@ table {
 @media screen and (max-width: 1200px) {
     #menu li {
         margin: auto;
-        font-size: 50%;
+        font-size: 100%;
         text-decoration: none;
     }
 
@@ -533,7 +533,7 @@ table {
     }
 
     #menu ul {
-        margin-left: 15%;
+        margin: auto;
     }
 
     #villains-image {
@@ -551,12 +551,12 @@ table {
     }
 
     .female-villain-image {
-        width: 75%;
+        width: 100%;
         height: auto;
     }
 
     .male-villain-image {
-        width: 75%;
+        width: 100%;
         height: auto;
     }
 
