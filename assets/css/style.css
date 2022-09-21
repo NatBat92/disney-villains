@@ -532,12 +532,12 @@ table {
 
     #menu li {
         margin-right: 50px;
-        font-size: 50%;
+        font-size: 75%;
         text-decoration: none;
     }
 
     #menu ul {
-        padding: 0;
+        margin-left: 15%;
     }
 
     #villains-image {
