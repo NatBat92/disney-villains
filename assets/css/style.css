@@ -232,7 +232,7 @@ footer input[type=submit] {
 
 .form-section {
     max-width: 70%;
-    max-height: 600px;
+    max-height: auto;
     padding-bottom: 50px;
     margin: auto;
     text-align: center;
@@ -417,85 +417,6 @@ table {
 
 /* media queries */
 
-@media screen and (max-width: 950px) {
-    #menu li {
-        margin-right: 50px;
-        font-size: 50%;
-        text-decoration: none;
-    }
-
-    #menu ul {
-        padding: 0;
-    }
-
-    #villains-image {
-        width: 100%;
-        height: auto;
-    }
-
-    img {
-        width: 100%;
-        height: auto;
-    }
-
-    #page-opener {
-        font-size: 100%;
-    }
-
-    .female-villain-image {
-        width: 75%;
-        height: auto;
-    }
-
-    .male-villain-image {
-        width: 75%;
-        height: auto;
-    }
-
-    .villain-info {
-        width: 50%;
-    }
-
-    #villain-medley-video {
-        width: 100%;
-        height: auto;
-        margin: auto;
-    }
-
-    iframe {
-        width: 100%;
-    }
-
-    .form-section {
-        max-width: 50%;
-    }
-
-    input[type=text] {
-        padding: 10px;
-        text-align: left;
-        width: 50%;
-        opacity: 75%;
-        border: thick solid #4b0751;
-        border-radius: 25px;
-    }
-
-    .form-section input[type=email] {
-        padding: 10px;
-        text-align: left;
-        width: 50%;
-        opacity: 75%;
-        border: thick solid #4b0751;
-        border-radius: 25px;
-    }
-
-    .form-section label {
-        font-family: "Cinzel Decorative", sans-serif;
-        color: #4b0751;
-        display: inline-block;
-        text-align: left;
-    }
-}
-
 @media screen and (max-width: 1200px) {
     #menu li {
         margin: auto;
@@ -610,5 +531,82 @@ table {
         .content {
             font-size: 100%;
         }
+    }
+
+    #menu li {
+        margin-right: 50px;
+        font-size: 50%;
+        text-decoration: none;
+    }
+
+    #menu ul {
+        padding: 0;
+    }
+
+    #villains-image {
+        width: 100%;
+        height: auto;
+    }
+
+    img {
+        width: 100%;
+        height: auto;
+    }
+
+    #page-opener {
+        font-size: 100%;
+    }
+
+    .female-villain-image {
+        width: 75%;
+        height: auto;
+    }
+
+    .male-villain-image {
+        width: 75%;
+        height: auto;
+    }
+
+    .villain-info {
+        width: 50%;
+    }
+
+    #villain-medley-video {
+        width: 100%;
+        height: auto;
+        margin: auto;
+    }
+
+    iframe {
+        width: 100%;
+    }
+
+    .form-section {
+        max-width: 50%;
+    }
+
+    input[type=text] {
+        padding: 10px;
+        text-align: left;
+        width: 50%;
+        opacity: 75%;
+        border: thick solid #4b0751;
+        border-radius: 25px;
+    }
+
+    .form-section input[type=email] {
+        padding: 10px;
+        text-align: left;
+        width: 50%;
+        opacity: 75%;
+        border: thick solid #4b0751;
+        border-radius: 25px;
+    }
+
+    .form-section label {
+        font-family: "Cinzel Decorative", sans-serif;
+        color: #4b0751;
+        display: inline-block;
+        text-align: left;
     }
 }

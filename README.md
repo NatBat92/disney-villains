@@ -207,6 +207,8 @@ I tested my website on a few platforms including Microsoft Edge, Chrome and Andr
 ### Accessibility
 * I can confirm the colours and font I chose are easy to read and accessible when running lighthouse in Dev tools
 
+![screenshot of lighthouse perforance rating](assets/css/images/lighthouse-screenshot.png)
+
 ## Deployment
 
 ! add steps to deploy to github !
