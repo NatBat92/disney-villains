@@ -1,3 +1,5 @@
+![screenshot of responsiveness of my website](assets/css/images/responive-webite-images.jpg)
+
 # Disney Villains
 
 This website is somewhere for people, like me, who enjoy the bad guys of the Disney world. This website allows the user to learn more about the characters who are out to stop the good guys. This project is the basis of what can become something much larger, with more characters being added as the Disney franchise grows. 
@@ -211,12 +213,21 @@ I tested my website on a few platforms including Microsoft Edge, Chrome and Andr
 
 ## Deployment
 
-! add steps to deploy to github !
+I followed these steps to deploy mywebsite:
+* Log into Github
+* Selected the Disney-Villains repository
+* Click the settings button
+* select 'pages' on the left hand side
+* In the sources section, select branch 'main' and save
+* After a few seconds the link to website was provided as seen below
+
+![github pages link](assets/css/images/github-pages.jpg)
 
 # Credits
 
 ## Code
 * General coding queries were answered by using [W3Schools](https://www.w3schools.com/html/)
+* The code template I used for the timeline featured on the home page was also from [W3Schools](https://www.w3schools.com/html/)
 
 ## Content
 * The icons used were from [Font Awesome](https://fontawesome.com/)
@@ -226,4 +237,4 @@ I tested my website on a few platforms including Microsoft Edge, Chrome and Andr
 * The other images such as the small character images used on the male and female villains pages were from [Disney Wiki](https://disney.fandom.com/wiki/The_Disney_Wiki)
 
 # Acknowledgements
-I would like to thank my mentor Andre Aquilina for his support and helpful guidance and the ideas he had about certain features I had on the website and how to improve them. 
+I would like to thank my mentor Andre Aquilina for his support, helpful guidance and the ideas he had about certain features I had on the website and how to improve them. 
