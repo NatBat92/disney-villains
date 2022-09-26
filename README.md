@@ -102,13 +102,13 @@ The villain bio page provides a more in depth look at the villains. It details t
 
 ## Request a Villain
 
-The Request a Villain page give the user a chance to request a villain that is currently missing from the site. As the site is in early stages, there are many more villains out there to be added so giving people the chance to be a part of that process is one way to encourage users to return to the site.
+The Request a Villain page give the user a chance to request a villain that is currently missing from the site. As the site is in early stages, there are many more villains out there to be added so giving people the chance to be a part of that process is one way to encourage users to return to the site. I have created a separate page for the user to be taken to when they have submitted a request.
 
 ![screenshot of the request a villain page](assets/css/images/request-a-villain-example.png)
 
 ## Footer
 
-The footer houses social media links to a Facebook page dedicated to Disney Villains, an Instagram page for Disney Villains and the wiki page for all things Disney. I have also included an option for the user to sign up to a newsletter so they would get an email when a new villain is added.
+The footer houses social media links to a Facebook page dedicated to Disney Villains, an Instagram page for Disney Villains and the wiki page for all things Disney. I have also included an option for the user to sign up to a newsletter so they would get an email when a new villain is added. I have created a separate page for the user to be taken to when they have submitted their email address.
 
 ![screenshot of the footer](assets/css/images/footer-example.png)
 

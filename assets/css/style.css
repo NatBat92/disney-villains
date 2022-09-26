@@ -177,6 +177,18 @@ body {
     opacity: 75%;
 }
 
+#newsletter-confirmation {
+    text-align: center;
+    color: #4b0751;
+    font-family: "Cinzel Decorative", sans-serif;
+}
+
+#villain-request-confirmation {
+    text-align: center;
+    color: #4b0751;
+    font-family: "Cinzel Decorative", sans-serif;
+}
+
 hr {
     background-color: white;
     height: 3px;
