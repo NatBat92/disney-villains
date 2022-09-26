@@ -89,26 +89,26 @@ All five pages have a fully functioning navigation bar which includes links to t
 
 ## Villain Outlines
 
-The villain outline pages were done as a first port of call for the user to see the villains and find out the basics about each character. Subsequently, each image is also a link to their name on a further page that gives a more in depth look at each villain and what they're about. 
+The villain outline pages were done as a first port of call for the user to see the villains and find out the basics about each character. Subsequently, each image is also a link to their name on a further page that gives a more in depth look at each villain, their backstory and their role in a Disney movie. 
 
 ![screenshot of the female villain page](assets/css/images/female-villain-page-example.png)
 ![screenshot of the male villain page](assets/css/images/male-villain-page-example.png)
 
 ## Villain Biographies
 
-The villain bio page provides a more in depth look at the villains. It details the movie and the basic plot as well as giving a bit more of a background for the character which the previous website pages don't provide.
+The villain bio page provides a more in depth look at the villains. It details the movie the villain stars in and the basic plot of the movie. It also provides background information for the character.
 
 ![screenshot of the villain bio page](assets/css/images/villain-bio-example.png)
 
 ## Request a Villain
 
-The Request a Villain page give the user a chance to request a villain that is currently missing from the site. As the site is in early stages there are many more villains out there to be added so giving people the chance to be a part of that process is one way to encourage return site users.
+The Request a Villain page give the user a chance to request a villain that is currently missing from the site. As the site is in early stages, there are many more villains out there to be added so giving people the chance to be a part of that process is one way to encourage users to return to the site.
 
 ![screenshot of the request a villain page](assets/css/images/request-a-villain-example.png)
 
 ## Footer
 
-The footer houses social media links to a Facebook page dedicated to Disney Villains, an Instagram page for Disney VIllains and the wiki page for all things Disney. I have also included an option for the user to sign up to a newsletter so they would get an email when a new villain is added.
+The footer houses social media links to a Facebook page dedicated to Disney Villains, an Instagram page for Disney Villains and the wiki page for all things Disney. I have also included an option for the user to sign up to a newsletter so they would get an email when a new villain is added.
 
 ![screenshot of the footer](assets/css/images/footer-example.png)
 
@@ -130,23 +130,23 @@ The footer houses social media links to a Facebook page dedicated to Disney Vill
 
 [Google Developer Tools](https://developer.chrome.com/docs/devtools/)
 
-* Google Dev Tools were used so i could check my website through all stages of development and ensure it was responsive.
+* Google Dev Tools were used so I could check my website through all stages of development and ensure it was responsive.
 
 [Google Fonts](https://fonts.google.com/)
 
-* Google fonts is where i chose the font that is seen throughout the website.
+* Google fonts is where I chose the font that is seen throughout the website.
 
 [Google Images](https://images.google.co.uk/)
 
-* Google images is where i found the main header iimage for the website.
+* Google images is where I found the main header image for the website.
 
 [Disney Wiki](https://disney.fandom.com/wiki/The_Disney_Wiki)
 
-* The disney wiki page is where i got the majority of my imags and thumbnails from.
+* The Disney wiki page is where I obtained the majority of my images and thumbnails.
 
 [Font Awesome](https://fontawesome.com/)
 
-* Font Awesome is where i got the Facebook, Instagram and Wiki icons from.
+* Font Awesome is where I obtained the Facebook, Instagram and Wiki icons.
 
 [github](https://github.com/)
 
@@ -154,7 +154,7 @@ The footer houses social media links to a Facebook page dedicated to Disney Vill
 
 [Git](https://git-scm.com/)
 
-* Git wasused for version control to commit and push to Github.
+* Git was used for version control to commit and push to Github.
 
 [Gitpod](https://www.gitpod.io/)
 
@@ -162,37 +162,37 @@ The footer houses social media links to a Facebook page dedicated to Disney Vill
 
 [WebAim](https://webaim.org/resources/contrastchecker/)
 
-* Used this website to check to contrast of colours for the background colour and text colour
+* I used this website to check to contrast of colours for the background colour and text colour.
 
 [W3C Markup Validation Service](https://validator.w3.org/)
 
-* This was used to test my code and to make sure there were no errors 
+* This was used to test my code and to make sure there were no errors.
 
 [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
 
-* This was used to test my code and to make sure there were no errors or redundant code that didn't need to be there
+* This was used to test my code and to make sure there were no errors or redundant code that didn't need to be there.
 
 [Am I Responsive](https://ui.dev/amiresponsive)
 
-* Used this to demonstrate what my website would look across different devices
+* I used this to demonstrate what my website would look across different devices.
 
 # Testing
 
 ## User Stories
 
 1. As a first time user, I want to easily locate my favourite villain.
-* There are 2 clearly marked pages of villains, male and female once you are on the appropriate page then you can click the icon of your chosen character and be taken to a more in depth look at that villain.
+* There are 2 clearly marked pages of villains, male and female, once you are on the appropriate page then you can click the icon of your chosen character and be taken to a more in depth look at that villain.
 
 ![screenshot of nav bar links](assets/css/images/nav-bar-image.png)
 
-2. As a first time/ returning user, I want clearly laid out information
+2. As a first time/returning user, I want clearly laid out information
 * All the information is laid out in organised sections and there is clear definition between each individual villain in their respective page.
 
 ![screenshot of a villain page that shows a clear layout](assets/css/images/layout-example.png)
 
 ## Testing
 
-I tested my website on a few platforms including Microsoft Edge, Chrome and Android web. I confirmed my project is responsive by using the dev tools on the web browsers and changing the sizes of the screen. I have tested the links to make sure they go to the correct external and internal pages. The villain request form has a submit button and this opens in a new window.
+I tested my website on a few platforms including Microsoft Edge, Chrome and Android web browsers. I confirmed my project is responsive by using the dev tools on the web browsers and changing the sizes of the screen. I have tested the links to make sure they correspond to the correct external and internal pages. The villain request form has a submit button which opens in a new window once clicked.
 
 ## Validator Testing
 
@@ -202,22 +202,22 @@ I tested my website on a few platforms including Microsoft Edge, Chrome and Andr
 ![screenshot of the HTML passing the validator](assets/css/images/index-pass.png)
 
 ### CSS
-* When I ran my CSS through the validator it passed without error
+* When I ran my CSS through the validator it passed without error.
 
 ![screenshot of my CSS passing in the validator](assets/css/images/css-pass.png)
 
 ### Accessibility
-* I can confirm the colours and font I chose are easy to read and accessible when running lighthouse in Dev tools
+* I can confirm the colours and font I chose are easy to read and accessible when running lighthouse in Dev tools.
 
 ![screenshot of lighthouse perforance rating](assets/css/images/lighthouse-screenshot.png)
 
 ## Deployment
 
-I followed these steps to deploy mywebsite:
+I followed these steps to deploy my website:
 * Log into Github
 * Selected the Disney-Villains repository
 * Click the settings button
-* select 'pages' on the left hand side
+* Select 'pages' on the left hand side
 * In the sources section, select branch 'main' and save
 * After a few seconds the link to website was provided as seen below
 
@@ -237,4 +237,4 @@ I followed these steps to deploy mywebsite:
 * The other images such as the small character images used on the male and female villains pages were from [Disney Wiki](https://disney.fandom.com/wiki/The_Disney_Wiki)
 
 # Acknowledgements
-I would like to thank my mentor Andre Aquilina for his support, helpful guidance and the ideas he had about certain features I had on the website and how to improve them. 
+I would like to thank my mentor, Andre Aquilina, for his support, help, guidance and ideas he had about certain features I had on the website and how to improve them. 
